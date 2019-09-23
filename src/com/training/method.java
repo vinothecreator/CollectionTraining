@@ -13,6 +13,8 @@ public class method {
 		//int sum; */
 		
 		int sum=a+b;
+		
+		// test the code 
 		System.out.println("sum is "+sum);
 	}
 
